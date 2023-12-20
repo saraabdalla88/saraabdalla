@@ -1,1 +1,2 @@
-This Is My New Projet
+cd username.github.io
+echo "Hello World" > index.html
